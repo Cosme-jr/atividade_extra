@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f8c814-61bc-40c0-b715-b64d6ebed477" name="Changes" comment="" />
+    <list default="true" id="0eb36654-619b-456e-90cc-a16bb0b28116" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/parouimpa.py" beforeDir="false" afterPath="$PROJECT_DIR$/parouimpa.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +13,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="31mS1gZZPY7AhOCTqidtxZMMXAy" />
+  <component name="ProjectId" id="31nW1Z9Q1hMZk5hSglniITorLg6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,11 +31,11 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78f8c814-61bc-40c0-b715-b64d6ebed477" name="Changes" comment="" />
-      <created>1756127547774</created>
+      <changelist id="0eb36654-619b-456e-90cc-a16bb0b28116" name="Changes" comment="" />
+      <created>1756160119155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1756127547774</updated>
+      <updated>1756160119155</updated>
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ par= 0
 impa = 0
 while True:
     try:
-        entrada = input('Digite um número (ou fim para sair): ')
+        entrada = input('Digite um número (ou -1 para sair): ')
         if entrada.lower() == 'fim':
             break
         numero = int(entrada)
@@ -11,8 +11,9 @@ while True:
             par += 1
         else:
             impa += 1
-            if numero < 0:
-                raise ValueError('Número negativo não é permitido.')
+            raise Exception('Número ímpar detectado.')
+
+            
     except ValueError:
         print('Entrada inválida. Digite um número inteiro.')
 
